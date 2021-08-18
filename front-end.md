@@ -1,4 +1,4 @@
-# Frontend Take Home Challenge
+# Frontend challenge
 
 ## Autocomplete challenge
 Build a Vue.js application that lets users search for a cities and books in a provided list.
