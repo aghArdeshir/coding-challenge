@@ -82,7 +82,7 @@ In order to adhere to the 2-3 hour target time, we *highly* recommend that you u
 - One of the core challenges here is how to structure components and stores around two types of data (strings and objects), it is important to recognize that before you start writing your code.
 
 ### Timeframe
-Take as much time as you need. We're expecting this will take you one or two evenings. (Somewhere up to 2-3 hours if you're new to React.)
+Take as much time as you need. We're expecting this will take you one or two evenings. (Somewhere up to 2-3 hours if you're new to Vue.)
 
 ### More Questions?
 Please reach out to your hiring manager, we're happy to help!
